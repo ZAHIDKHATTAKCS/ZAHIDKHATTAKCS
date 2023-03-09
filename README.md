@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ZAHIDKHATTAKCS/ZAHIDKHATTAKCS/blob/main/My%20banner.png)
 <h1 align="center">Hi 👋, I'm Zahid Khattak</h1>
 <h3 align="center">A passionate Frontend Developer from Peshawar, Pakistan</h3>
 

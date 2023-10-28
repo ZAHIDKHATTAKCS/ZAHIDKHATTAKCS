@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **zahidkhattakcs@gmail.com**
 
-- 📄 Know about my experiences (https://my-personal-portfolio-updated-one.vercel.app/)
+- 📄 Know about my experiences ☝😍    👉(https://my-personal-portfolio-updated-one.vercel.app/)
 
 - ⚡ Fun fact : **I changed my password to "incorrect" so whenever I forget what it is, the computer will say "Your password is incorrect" 😊**
 

@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center">A passionate Frontend Developer from Peshawar, Pakistan</h3>
 
-<img align="right" alt="coding" width="400px" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6/fullscreen">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+<img align="right" alt="coding" width="400px" src="[https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6/fullscreen](https://mograph.video/2HwFiEL)">
+
 
 
 

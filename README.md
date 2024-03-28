@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center">A passionate Frontend Developer from Peshawar, Pakistan</h3>
 
-<img align="right" alt="coding" width="400px" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6/fullscreen">
+<img align="right" alt="coding" width="350px" src="coding2.gif">
 
 
 

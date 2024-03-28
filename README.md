@@ -1,8 +1,8 @@
-![logo](https://github.com/ZAHIDKHATTAKCS/ZAHIDKHATTAKCS/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Zahid Khattak</h1>
+![logo](https://github.com/ZAHIDKHATTAKCS/ZAHIDKHATTAKCS/blob/main/Mybanner.png)
+<h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
 <h3 align="center">A passionate Frontend Developer from Peshawar, Pakistan</h3>
 
-<img align="right" alt="coding" width="400px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yhcgl2mgucgq1lbyjk8xyubcp2cmjnpu87b0ok7x&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400px" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6/fullscreen">
 
 
 
@@ -12,11 +12,14 @@
 
 - 💬 Ask me about **Front-End HTML || CSS || JAVASCRIPT || BOOTSTRAP || Tailwindcss || PHP**
 
-- 📫 How to reach me **zahidkhattakcs@gmail.com**
+- 📫 How to reach me, My Email 👉 **zahidkhattakcs@gmail.com**
 
-- 📄 Know about my experiences ☝😍    👉 https://zahidkhattak.vercel.app/
+- 📄 Know about my experiences ☝😍 here is my website 👉 **[Zahid Khattak](https://zahidkhattak.vercel.app/)**
 
 - ⚡ Fun fact : **I changed my password to "incorrect" so whenever I forget what it is, the computer will say "Your password is incorrect" 😊**
+
+##  <p align="center">Zahid Khattak
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

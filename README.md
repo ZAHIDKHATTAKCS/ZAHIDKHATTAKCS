@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@izahidkhattak" target="blank"><img src="https://img.shields.io/twitter/follow/@izahidkhattak?logo=twitter&style=for-the-badge" alt="@izahidkhattak" /></a> </p>
 
-- 💬 Ask me about **Front-End HTML || CSS || JAVASCRIPT || BOOTSTRAP || Tailwindcss || PHP || Laravel**
+- 💬 Ask me about **Web Development HTML || CSS || JAVASCRIPT || BOOTSTRAP || Tailwindcss || PHP || Laravel**
 
 - 📫 How to reach me, My Email 👉 **zahidkhattakcs@gmail.com**
 

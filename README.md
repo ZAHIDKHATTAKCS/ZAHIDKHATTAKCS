@@ -1,7 +1,7 @@
 ![Banner](Mybanner.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
-<h3 align="center">A passionate Frontend Developer from Peshawar, Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Islamabad, Pakistan</h3>
 
 <img align="right" alt="coding" width="350px" src="coding2.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@izahidkhattak" target="blank"><img src="https://img.shields.io/twitter/follow/@izahidkhattak?logo=twitter&style=for-the-badge" alt="@izahidkhattak" /></a> </p>
 
-- 💬 Ask me about **Front-End HTML || CSS || JAVASCRIPT || BOOTSTRAP || Tailwindcss || PHP**
+- 💬 Ask me about **Front-End HTML || CSS || JAVASCRIPT || BOOTSTRAP || Tailwindcss || PHP || Laravel**
 
 - 📫 How to reach me, My Email 👉 **zahidkhattakcs@gmail.com**
 
